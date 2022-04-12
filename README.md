@@ -52,6 +52,6 @@ Vue 3, Composition API, setup
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Clement Creusat](https://clement-creusat.com/)
+- Frontend Mentor - [@ccreusat](https://www.frontendmentor.io/profile/ccreusat)
+- Github - [@ccreusat](https://github.com/ccreusat)
